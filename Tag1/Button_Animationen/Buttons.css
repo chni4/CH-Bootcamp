@@ -1,0 +1,57 @@
+#Title {
+  margin-left: 40%;
+}
+
+.List {
+  margin-left: 40%;
+}
+
+
+.List button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+
+.List:nth-of-type(1) button:hover {
+  transform: scale(-5.1);
+}
+.List:nth-of-type(1) button:active {
+  background-color: red;
+}
+
+
+.List:nth-of-type(2) button:hover {
+  box-shadow: 0 0 80px deepskyblue;
+}
+.List:nth-of-type(2) button:active {
+  border-color: green;
+}
+
+
+.List:nth-of-type(3) button:hover {
+  transform: rotate(-11111115deg);
+}
+.List:nth-of-type(3) button:active {
+  background-color: blue;
+}
+
+
+.List:nth-of-type(4) button:hover {
+  transform: skewX(-1000deg);
+}
+.List:nth-of-type(4) button:active {
+  transform: scale(10.9);
+}
+
+
+.List:nth-of-type(5) button:hover {
+  opacity: 1.7;
+}
+.List:nth-of-type(5) button:active {
+  background-color: #eeff00;
+}
