@@ -1,0 +1,106 @@
+#Max {
+  margin-left: 42%;
+  margin-top: 23%;
+  height: 35%;
+  position: absolute;
+
+
+}
+#Rebull{
+  margin-left: 40%;
+  margin-top: 20%;
+  height: 20%;
+  position: absolute;
+}
+
+#Klick{
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 35%;
+}
+
+#jump{
+  margin-left: 32%;
+  margin-top: 10%;
+  height: 80%;
+  position: absolute;
+}
+#virRed {
+  width: 1904px;
+  height: 100px;
+  background-color: Red;
+}
+
+#virBlue {
+  width: 1904px;
+  height: 100px;
+  position: absolute;
+  margin-top: 44%;
+  background-color: Blue;
+}
+
+#sideYellow {
+  width: 100px;
+  height: 841px;
+  position: absolute;
+  margin-top: 0%;
+  background-color: Yellow;
+}
+
+#sideGrey {
+  width: 100px;
+  height: 841px;
+  position: absolute;
+  margin-top: 0%;
+  margin-left: 94.3%;
+  background-color: #eeebeb;
+}
+
+#F1Car{
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 5.5%;
+  height: 25%;
+
+
+}
+
+#Game{
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 20%;
+
+
+}
+
+#MaxAffe{
+  position: absolute;
+  margin-left: 70%;
+  height: 30%;
+  margin-top: 20%;
+}
+
+.h1{
+  position: absolute;
+  color: Red ;
+  background: Blue;
+
+}
+
+#titel{
+  margin-left: 10%;
+  margin-top: 20%;
+}
+
+#Redbull{
+  position: fixed;
+  margin-left: 10%;
+  height: 20%;
+  margin-top: 10%;
+
+}
+#Text {
+  margin-top: 34%;
+  margin-left: 17%;
+
+}
