@@ -10,10 +10,10 @@ function MainPage() {
 
     return (
 
-        <div style={{ textAlign: 'center', marginTop: '50px', marginLeft: "550%" }}>
+        <div style={{ textAlign: 'center', marginTop: '50px', marginLeft: "50%" }}>
 
             {}
-            <button className="button" onClick={handleNavigate}>
+            <button className="button2" onClick={handleNavigate}>
                 <div className="lid">
                     <span className="side top"></span>
                     <span className="side front"></span>
@@ -31,7 +31,7 @@ function MainPage() {
                         </div>
                     </div>
                 </div>
-                <span>Character Search</span>
+
             </button>
         </div>
 
